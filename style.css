@@ -229,9 +229,12 @@ font-size: 1.5em;
 padding-right: 20px;
 }
 
-.footer a{
+.footer>a{
     color: #98a7b5;
     text-decoration: none;
+    /* border: 1px solid gray; */
+    position: relative;
+    right: 100px;
 }
 .footer a:hover{
     color: red;
