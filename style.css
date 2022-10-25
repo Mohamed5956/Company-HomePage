@@ -15,17 +15,14 @@ header{
     text-decoration: none;
     width: 100%;
     position: fixed;
-    position: sticky;
     z-index:100 ;
     display: flex;
     justify-content: space-between;
     text-align: center;
-    padding: 40px 200px;
+    padding: 30px 100px;
     background-color: #143755;
 }
-/* .brand{
-    background-image: url(cover.png);
-} */
+
 .logo{
     color: white;
     text-decoration: none;
